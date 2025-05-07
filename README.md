@@ -1,4 +1,4 @@
-### Hi there, I'm Anupam
+# 👋 Hi there, I'm Anupam Tudu!
 
 ## CS Undergrad Student | AI/ML Enthusiast | Python Developer
 - 👋 I'm currently pursuing Btech in Computer Science with specialiazation in AI/ML
